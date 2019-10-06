@@ -1,4 +1,4 @@
-# Test-Unity-Junior---Rightway-games---Asteroids
+# Unity-Asteroids-game
 
 Unity 2019.2.0f1
 
